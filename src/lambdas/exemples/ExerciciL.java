@@ -84,9 +84,9 @@ public class ExerciciL {
 
          */
 
-        // 8 - llistat de persones DONA amb lambda
+        // 8 - llistat de persones DONA amb lambda (stream)
 
-        // 9 - Llistat dels dos HOMES més joves
+        // 9 - Llistat dels dos HOMES més joves (stream)
 
         // 10- Esborrar (no filtrar o imprimir) del llistat les persones entre 30 i 40 anys (amb lambda)
 
