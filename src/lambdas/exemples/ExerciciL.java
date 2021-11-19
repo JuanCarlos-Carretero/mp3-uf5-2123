@@ -62,12 +62,14 @@ public class ExerciciL {
         }
 
 
+
         /* 7 -
             Esbrina com s'utilitzen els mètodes de map següents
                 map.putIfAbsent
                 map.computeIfAbsent
                 map.computeIfPresent
-             per tal d'afegir correctament la feqrëncia d'edat de les persones.
+
+             per tal d'afegir correctament la feqüència d'edat de les persones.
 
              Si vols fes-ho primer sense els mètodes anomenats i sense lambdes
              i després amb els mètodes i amb lambdes
@@ -86,7 +88,7 @@ public class ExerciciL {
 
         // 9 - Llistat dels dos HOMES més joves
 
-        // 10- Esborrar del llistat les persones entre 30 i 40 anys (amb lambda)
+        // 10- Esborrar (no filtrar o imprimir) del llistat les persones entre 30 i 40 anys (amb lambda)
 
     }
 
