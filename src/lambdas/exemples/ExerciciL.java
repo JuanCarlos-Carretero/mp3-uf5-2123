@@ -42,7 +42,7 @@ public class ExerciciL {
         // 3 - Canvia a classe anònima
         System.out.println("\n3-4");
         //ordenació alfabètica inversa del nom
-        llista_persones.sort((o1,o2) -> o2.getNom().compareTo(o1.getNom()));
+            llista_persones.sort((o1,o2) -> o2.getNom().compareTo(o1.getNom()));
 
         // 4 - Canvia per una crida al mètode per referència
         for(Persona p: llista_persones) {
